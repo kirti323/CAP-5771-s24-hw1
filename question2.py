@@ -1,5 +1,5 @@
 def question2_1():
-    # answer = ['string', 'string', 'string']
+    answer = ['ratio', 'ratio', 'ratio']
     return answer
 
 def question2_2():
